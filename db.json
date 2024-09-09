@@ -29,6 +29,12 @@
       "day": "Sept 30th",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "At crazy",
+      "day": "Nov 1st",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
